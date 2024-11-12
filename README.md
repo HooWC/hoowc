@@ -4,5 +4,5 @@
 
 **All / Projects at** [**LINK**](https://techdocs-hazel.vercel.app/);<br>
 
-- ⚙️ I use : `.php`,`.cs`,`.java`, `.js`, `.html`, `.css`, `.xml`, `.jsx`, `.vue`, `.jsp`
+- ⚙️ I use : `.php`,`.cs`,`.java`, `.js`, `.html`, `.css`, `.xml`, `.jsx`, `.tsx`, `.vue`, `.jsp`
 - 🌍 I am primarily active in **Web Development**.
